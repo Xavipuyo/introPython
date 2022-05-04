@@ -1,14 +1,31 @@
-variable = 10
+# import keyword
 
-print(variable)
+# print (keyword)
+# print(keyword.kwlist)
 
-def funcion ():              
-    x = 5
-    return x
+# variable = 10
 
-print(funcion())
+# print(variable)
 
-nombre = 'xavi'
+# def funcion ():              
+#    x = 5
+#    return x
 
-print('Hola',nombre)
+# print(funcion())
+
+# nombre = 'xavi'
+
+# print('Hola',nombre)
+
+
+# print("Esto es todo", end=" ")
+# print("amigos!")
+
+# print("Este", "lenguaje", "se", sep="_", end="*")
+# print("denomina", "Python.", sep="*", end="*\n")
+
+# tipos = 'Hola Mundo!'
+# print ("Indentidad:",id(tipos))
+# print ("tipo:",type(tipos))
+# print ("valor:",(tipos))
 
